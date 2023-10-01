@@ -17,7 +17,7 @@ public class CalcMain {
             System.out.println("Addition: " + sum);
 
             // віднімання
-            /*Subtraction subtraction = new SubtractionClass();
+            Subtraction subtraction = new SubtractionClass();
             double difference = subtraction.calculate(num1, num2);
             System.out.println("Subtraction: " + difference);
 
@@ -30,7 +30,7 @@ public class CalcMain {
             Division division = new DivisionClass();
             double quotient = division.calculate(num1, num2);
             System.out.println("Division: " + quotient);
-             */
+
         } catch (Exception e) {
             System.out.println("Error: " + e.getMessage());
         } finally {
