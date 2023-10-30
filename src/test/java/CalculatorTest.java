@@ -15,7 +15,7 @@ public class CalculatorTest {
     public void testCalculate_Subtraction() {
         Subtraction subtraction = new SubtractionClass();
         double result = subtraction.calculate(5, -1.5);
-        assertEquals(6.5, result); //
+        assertEquals(6.5, result);
     }
 
     @Test
@@ -29,7 +29,7 @@ public class CalculatorTest {
     public void testCalculate_Division() {
         Division division = new DivisionClass();
         double result = division.calculate(-18, -2);
-        assertEquals(9.0, result); 
+        assertEquals(9.0, result);
     }
 
     @Test
