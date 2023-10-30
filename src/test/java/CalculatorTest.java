@@ -29,7 +29,7 @@ public class CalculatorTest {
     public void testCalculate_Division() {
         Division division = new DivisionClass();
         double result = division.calculate(-18, -2);
-        assertEquals(9.0, result); // Comparison with delta for floating-point numbers
+        assertEquals(9.0, result); 
     }
 
     @Test
