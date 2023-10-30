@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Lab1_DevOps_Kalmykova" target="14" />
+      <module name="Lab1_DevOps_Kalmykova" target="17.0.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
