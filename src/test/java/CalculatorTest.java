@@ -27,8 +27,8 @@ public class CalculatorTest {
     @Test
     public void testCalculate_Division() {
         Division division = new DivisionClass();
-        double result = division.calculate(-18, -2);
-        assertEquals(9.0, result, 0.0001);
+        double result = division.calculate(-18, -9);
+        assertEquals(2.0, result, 0.0001);
     }
 
     @Test(expected = ArithmeticException.class)
