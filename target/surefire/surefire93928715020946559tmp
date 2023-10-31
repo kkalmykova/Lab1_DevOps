@@ -1,0 +1,25 @@
+#surefire
+#Tue Oct 31 14:40:33 EET 2023
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\telec\\IdeaProjects\\Lab1_DevOps_Kalmykova\\src\\test\\java
+includes1=**/*Test.java
+includes2=**/*TestCase.java
+runOrder=filesystem
+runStatisticsFile=C\:\\Users\\telec\\IdeaProjects\\Lab1_DevOps_Kalmykova\\.surefire-D79F5A21EA90B2D1F73C8585D7F286B271D81818
+includes0=**/Test*.java
+reportsDirectory=C\:\\Users\\telec\\IdeaProjects\\Lab1_DevOps_Kalmykova\\target\\surefire-reports
+tc.0=CalculatorTest
+surefireClassPathUrl.0=C\:\\Users\\telec\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.12.4\\surefire-junit4-2.12.4.jar
+classPathUrl.0=C\:\\Users\\telec\\IdeaProjects\\Lab1_DevOps_Kalmykova\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+classPathUrl.1=C\:\\Users\\telec\\IdeaProjects\\Lab1_DevOps_Kalmykova\\target\\classes
+failIfNoTests=false
+classPathUrl.2=C\:\\Users\\telec\\.m2\\repository\\junit\\junit\\4.13.2\\junit-4.13.2.jar
+classPathUrl.3=C\:\\Users\\telec\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+testClassesDirectory=C\:\\Users\\telec\\IdeaProjects\\Lab1_DevOps_Kalmykova\\target\\test-classes
+isTrimStackTrace=true
+surefireClassPathUrl.1=C\:\\Users\\telec\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+excludes0=**/*$*
+enableAssertions=true
+childDelegation=false
+useManifestOnlyJar=true
+useSystemClassLoader=true
